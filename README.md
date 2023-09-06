@@ -5,8 +5,8 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -37,15 +37,15 @@ Dataset used: The dataset consists of 2357 images of malignant and benign oncolo
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
- - python
- - pathlib
- - tensorflow
- - matplotlib
- - numpy
- - pandas
- - os
+ - Python
+ - Pathlib
+ - Tensorflow
+ - Matplotlib
+ - Numpy
+ - Pandas
+ - Os
  - PIL
- - keras
+ - Keras
 
 
 ## Acknowledgements
